@@ -1,0 +1,25 @@
+﻿body {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#divmainlistaplikow {
+    background-color: lightblue;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#divmainzarzadzanieplikami {
+    background-color: lightblue;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
