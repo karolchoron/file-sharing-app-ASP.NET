@@ -1,4 +1,4 @@
-# file_sharing_app_asp-net
+# File Sharing Application in ASP.NET
 
 ENG:
 Student project of file sharing application made in C# ASP.NET technology
