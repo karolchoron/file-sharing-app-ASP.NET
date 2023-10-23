@@ -25,16 +25,6 @@ After logging into the admin account, you will see the "Admin Panel" tab, there 
 After registering a new user, Admin can add him/her in Admin Panel to admin role.
 Once added, this new user will also be able to go to the Admin Panel and add other users to roles.
 
-The main file for firing up the application is: Default
-
-The passwords for the other users are: Karol_123!  (For all the same)
-Logins are: 
-kazik@gmail.com 
-tomek@gmail.com 
-pawel@gmail.com 
-test@gmail.com 
-karol@gmail.com
-
 ----------------------------------------------------------------------------------------------------------------------------
 PL:
 Projekt studencki aplikacji udostępniania plików wykonany w technologii C# ASP.NET.
@@ -61,12 +51,3 @@ Po zalogowaniu sie na konto admina, pojawi się zakładka "Panel Administracyjny
 Po rejestracji nowego użytkownika, Administrator może go dodać w Panelu Administracyjnym do roli adminia.
 Po dodaniu, ten nowy użytkownik też będzie mógł wejść na panel administratora i dodawać innym użytkownikom role.
 
-Plikiem głównym do odpalania aplikacji jest: Default
-
-Hasła do pozostałych użytkowników to: Karol_123!  (Dla wszystkich takie same)
-Loginy to: 
-kazik@gmail.com 
-tomek@gmail.com 
-pawel@gmail.com 
-test@gmail.com 
-karol@gmail.com
