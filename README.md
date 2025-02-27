@@ -1,6 +1,6 @@
 # 📂 File Sharing Application in ASP.NET
 
-## 🌍 ENG: 
+## EN:
 **Student project** of a file-sharing application made in **C# ASP.NET** technology.
 
 ### 🔐 User Features:
