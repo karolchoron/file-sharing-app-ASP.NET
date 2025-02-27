@@ -1,53 +1,64 @@
-# File Sharing Application in ASP.NET
+# 📂 File Sharing Application in ASP.NET
 
-ENG:
-Student project of file sharing application made in C# ASP.NET technology
+## 🌍 ENG: 
+**Student project** of a file-sharing application made in **C# ASP.NET** technology.
 
-The application allows users to register and log in.
-The user can register themselves.
-After logging in, the user can upload files, download other users' files and delete files (which he uploaded himself).
-Without logging in, you can only see the list of files on the server.
+### 🔐 User Features:
+✅ **Register and log in**
+✅ **Upload files** (max 4 per user)
+✅ **Download files from other users**
+✅ **Delete own uploaded files**
+✅ **View file list without logging in**
 
-Assumptions about files:
-Each user can only upload 4 files. If he wants to upload more, he has to free up space (delete another file).
-The application blocks the upload of a file larger than 3.0 KB.
-Two files with the same name cannot be uploaded.
+### 📁 File Upload Restrictions:
+🚫 **Max 4 files per user** (must delete to upload more)
+🚫 **Max file size:** 3.0 KB
+🚫 **Duplicate file names not allowed**
 
-Admin has access to the administration panel.
-Admin can add user to admin role.
+### 🛠️ Admin Features:
+✅ **Access to the Admin Panel**
+✅ **Add users to the Administrator role**
 
-Adding roles:
+### 🔑 Adding Roles:
+To add a role, you must be logged in with an **administrator account**.
 
-To be able to add a role, you must be logged in with an administrator account  
-The built-in admin account is, login: admin@admin password: Admin_123!
+🛠️ **Built-in admin credentials:**  
+📧 `admin@admin`  
+🔑 `Admin_123!`
 
-After logging into the admin account, you will see the "Admin Panel" tab, there you can add other users to the Administrator role.
-After registering a new user, Admin can add him/her in Admin Panel to admin role.
-Once added, this new user will also be able to go to the Admin Panel and add other users to roles.
+After logging in, the **Admin Panel** tab appears, where the admin can promote users to administrators. 
+New admins will also gain access to this panel to manage roles.
 
-----------------------------------------------------------------------------------------------------------------------------
-PL:
-Projekt studencki aplikacji udostępniania plików wykonany w technologii C# ASP.NET.
+---
 
-Aplikacja pozwala na zarejestrowanie i logowanie użytkowników.
-Użytkownik może sam sie zarejestrować.
-Po zalogowaniu, użytkownik może wgrać pliki, pobrać pliki innych użytkowników oraz usunąc pliki (które sam wgrał).
-Bez zalogowania się, można zobaczyć tylko listę plików na serwerze.
+## PL:
+**Projekt studencki** aplikacji udostępniania plików wykonany w **technologii C# ASP.NET**.
 
-Założenia odnośnie plików:
-Każdy użytkownik może wgrać tylko 4 pliki. Jeżeli chce wgrać więcej, to musi zwolnić miejsce (usunąć inny plik).
-Aplikacja blokuje przesłanie pliku większego niż 3.0 KB.
-Nie można przesłać dwóch pliki o takiej samej nazwie.
+### 🔐 Funkcje użytkownika:
+✅ **Rejestracja i logowanie**
+✅ **Wgrywanie plików** (maks. 4 na użytkownika)
+✅ **Pobieranie plików innych użytkowników**
+✅ **Usuwanie własnych plików**
+✅ **Podgląd listy plików bez logowania**
 
-Dostęp do panelu administracyjnego ma Admin.
-Administrator może dodać użytkownika do roli administratora.
+### 📁 Ograniczenia dotyczące plików:
+🚫 **Maks. 4 pliki na użytkownika** (trzeba usunąć plik, aby dodać nowy)
+🚫 **Maks. rozmiar pliku:** 3.0 KB
+🚫 **Brak możliwości wgrania plików o tej samej nazwie**
 
-Dodawanie ról:
+### 🛠️ Funkcje administratora:
+✅ **Dostęp do panelu administracyjnego**
+✅ **Dodawanie użytkowników do roli administratora**
 
-Aby móc dodać rolę, trzeba być zalogowanym na koncie administratora  
-Wbudowane konto administratora to, login:  admin@admin hasło: Admin_123!
+### 🔑 Dodawanie ról:
+Aby dodać rolę, trzeba być **zalogowanym jako administrator**.
 
-Po zalogowaniu sie na konto admina, pojawi się zakładka "Panel Administracyjny", tam można dodawać innych użytkowników do roli Administratora.
-Po rejestracji nowego użytkownika, Administrator może go dodać w Panelu Administracyjnym do roli adminia.
-Po dodaniu, ten nowy użytkownik też będzie mógł wejść na panel administratora i dodawać innym użytkownikom role.
+🛠️ **Dane logowania wbudowanego administratora:**  
+📧 `admin@admin`  
+🔑 `Admin_123!`
+
+Po zalogowaniu się pojawi się zakładka **"Panel Administracyjny"**, gdzie administrator może nadawać role.  
+Nowi administratorzy również zyskują dostęp do tego panelu do zarządzania rolami.
+
+🚀
 
